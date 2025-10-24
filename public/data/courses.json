@@ -1,0 +1,5 @@
+[
+  { "id": 1, "title": "Quran Basics", "status": "active", "enrolled": 40 },
+  { "id": 2, "title": "Arabic Grammar", "status": "upcoming", "enrolled": 22 },
+  { "id": 3, "title": "Islamic History", "status": "completed", "enrolled": 30 }
+]

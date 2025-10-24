@@ -1,0 +1,5 @@
+[
+  { "id": 1, "name": "Ali Raza", "role": "student", "email": "ali@muallim.com" },
+  { "id": 2, "name": "Fatima Khan", "role": "teacher", "email": "fatima@muallim.com" },
+  { "id": 3, "name": "Admin User", "role": "admin", "email": "admin@muallim.com" }
+]

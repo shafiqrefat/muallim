@@ -1,0 +1,19 @@
+{
+  "totalStudents": 230,
+  "activeTeachers": 18,
+  "totalRevenue": 12500,
+  "recommendations": [
+    {
+      "id": 1,
+      "type": "teacher",
+      "name": "Fatima Khan",
+      "insight": "Top rated teacher with 98% positive feedback"
+    },
+    {
+      "id": 2,
+      "type": "student",
+      "name": "Ali Raza",
+      "insight": "Most active student this month with 15 completed lessons"
+    }
+  ]
+}
