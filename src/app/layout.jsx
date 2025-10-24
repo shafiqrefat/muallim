@@ -4,6 +4,10 @@ import AppLayout from '@/components/layout/appLayout';
 import { ReduxProvider } from '@/lib/store';
 import ThemeWrapper from '@/components/layout/themeWrapper';
 
+export const metadata = {
+  title: 'Muallim',
+  description: 'Muallim – Modern Learning Dashboard',
+};
 export default function RootLayout({ children }) {
   return (
     <html lang="en">
